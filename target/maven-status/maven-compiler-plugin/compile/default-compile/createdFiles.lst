@@ -1,0 +1,10 @@
+com\mindtree\client\AdminstativeOperation.class
+com\mindtree\dao\PatientDao.class
+com\mindtree\utilitty\JdbcConnection.class
+com\mindtree\business\Menu.class
+com\mindtree\dao\CenterDao.class
+com\mindtree\entity\Patient.class
+com\mindtree\business\PatientData.class
+com\mindtree\business\CenterData.class
+com\mindtree\entity\Special.class
+com\mindtree\entity\Center.class
